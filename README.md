@@ -21,7 +21,7 @@
 ##
 ### Curiosidades sobre mim
     
-- 🔭 Atualmente sou Dev FullStack Junior na <a href="https://twin.com.br/pt/" target="__blank">Twin Consultoria</a></p>
+- 🔭 Atualmente sou Dev FullStack na <a href="https://twin.com.br/pt/" target="__blank">Twin Consultoria</a></p>
 - 📚 Cursando Gestão da Tecnologia da Informação - FATEC Franco da Rocha</p>
 - 🌱 Focado em PHP e VueJs no momento</p>
 - 💻 Apaixonado por desenvolvimento de software!</p>
