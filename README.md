@@ -2,13 +2,6 @@
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, seja muito bem vindo!</h1>
 <br>
 
-<div display="flex">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sousaexm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaexm&layout=compact&langs_count=7&theme=github_dark"/>
-    <img height="140em" src="https://github.com/SousaExm/SousaExm/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
-
 #
 ### 🛠 &nbsp;Habilidades em desenolvimento
 <div display="flex">
