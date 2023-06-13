@@ -1,8 +1,6 @@
 <div align="left">
 <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, seja muito bem vindo!</h1>
-<br>
 
-#
 ### 🛠 &nbsp;Habilidades em desenolvimento
 <div display="flex">
   <img align="center" alt="skil-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
